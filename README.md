@@ -14,8 +14,8 @@
 <p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasInmanuel&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInmanuel&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasInmanuel&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInmanuel&layout=compact&theme=tokyonight" />
 </div>
 
 
