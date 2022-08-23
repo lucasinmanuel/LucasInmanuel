@@ -1,7 +1,7 @@
-### Olá, Meu nome é Lucas
-#### Eu sou um desenvolvedor Front-end do Brasil
+### Hello! My name is Lucas
+####  I am a Front-end Developer from Brasil
 
-<p>No ano de 2021 decidi estudar programação Front-end, e me apaixonei por esse mundo. Todo dia estudo e aprendo novas coisas sobre programação.</p>
+<p>When I started my studies in front-end programming, I learned HTML, CSS and JavaScript, specializing in React!</p>
 
 ### Skills
 <p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
