@@ -13,7 +13,7 @@
 ### Skills
 <p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasInmanuel&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInmanuel&layout=compact&theme=tokyonight" />
 </div>
