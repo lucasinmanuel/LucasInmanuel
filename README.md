@@ -1,6 +1,13 @@
 ### Hello! My name is Lucas
 ####  I am a Front-end Developer from Brasil
 
+<ul>
+  <li>My way to be a Front-end Developer</li>
+  <ol>
+    <li>Learn HTML, CSS and JavaScript</li>
+  </ol>
+</ul>
+
 ### Skills
 <p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
 
