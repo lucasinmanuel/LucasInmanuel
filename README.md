@@ -8,6 +8,7 @@
     <li>✅ Learn JavaScript</li>
     <li>🟨 Learn React.JS</li>
   </ol>
+  <li></li>
 </ul>
 
 ### Skills
