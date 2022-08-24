@@ -10,7 +10,7 @@
   </ol>
   <li>My path to become a <b>Back-end</b> Developer</li>
   <ol type="1">
-    <li>✅ Learn Java</li>
+    <li>🟨 Learn Java</li>
     <li>🟨 Learn Spring</li>
   </ol>
 </ul>
