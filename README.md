@@ -1,6 +1,19 @@
 <h1>Hello! My name is Lucas👋</h1>
 <h3>I am a Web Developer from Brasil💻</h3>
 
+<ul>
+  <li>My path to become a Front-end Developer</li>
+  <ol type="1">
+    <li>✅ Learn HTML and CSS</li>
+    <li>✅ Learn JavaScript</li>
+    <li>🟨 Learn React.JS</li>
+  </ol>
+  <li>My path to become a Back-end Developer</li>
+  <ol type="1">
+    <li>✅ Learn Java</li>
+  </ol>
+</ul>
+
 <h2>Main Techs</h2>
 <p>JavaScript | React | Java</p>
 
