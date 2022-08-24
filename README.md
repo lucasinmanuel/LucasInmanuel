@@ -6,7 +6,7 @@
   <ol type="1">
     <li>✅ Learn HTML and CSS</li>
     <li>✅ Learn JavaScript</li>
-    <li>🟨 Learn React</li>
+    <li>🟨 Learn React.JS</li>
   </ol>
   <li>My path to become a <b>Back-end</b> Developer</li>
   <ol type="1">
@@ -16,7 +16,10 @@
 </ul>
 
 <h2>Main Techs</h2>
-<p>JavaScript | React | Java</p>
+<p>JavaScript | React.JS | Java | Spring</p>
+
+<h2>Other Techs</h2>
+<p></p>
 
 <div>
   <a href="https://github.com/LucasInmanuel">
