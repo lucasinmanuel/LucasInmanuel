@@ -6,6 +6,7 @@
   <ol type="1">
     <li>✅ Learn HTML and CSS</li>
     <li>✅ Learn JavaScript</li>
+    <li>🟨 Learn React.JS</li>
   </ol>
 </ul>
 
