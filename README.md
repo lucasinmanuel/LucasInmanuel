@@ -2,13 +2,13 @@
 <h3>I am a Web Developer from Brasil💻</h3>
 
 <ul>
-  <li>My path to become a Front-end Developer</li>
+  <li>My path to become a <b>Front-end</b> Developer</li>
   <ol type="1">
     <li>✅ Learn HTML and CSS</li>
     <li>✅ Learn JavaScript</li>
-    <li>🟨 Learn React.JS</li>
+    <li>🟨 Learn React</li>
   </ol>
-  <li>My path to become a Back-end Developer</li>
+  <li>My path to become a <b>Back-end</b> Developer</li>
   <ol type="1">
     <li>✅ Learn Java</li>
     <li>🟨 Learn Spring</li>
