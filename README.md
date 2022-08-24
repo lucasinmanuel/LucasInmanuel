@@ -2,9 +2,10 @@
 ####  I am a Front-end Developer from Brasil
 
 <ul>
-  <li>My way to be a Front-end Developer</li>
+  <li>My way to being a Front-end Developer</li>
   <ol>
-    <li>Learn HTML, CSS and JavaScript</li>
+    <li>✅ Learn HTML and CSS</li>
+    <li>✅ Learn JavaScript</li>
   </ol>
 </ul>
 
