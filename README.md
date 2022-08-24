@@ -3,7 +3,7 @@
 
 <ul>
   <li>My way to being a Front-end Developer</li>
-  <ol>
+  <ol type="1">
     <li>✅ Learn HTML and CSS</li>
     <li>✅ Learn JavaScript</li>
   </ol>
