@@ -34,13 +34,5 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<h2></h2>
-
-<div>
-  <a href="https://github.com/LucasInmanuel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasInmanuel&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInmanuel&layout=compact&theme=tokyonight" />
-  </a>
-</div>
 
 
