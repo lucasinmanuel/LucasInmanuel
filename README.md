@@ -1,6 +1,21 @@
 <h1>Hello! My name is Lucas👋</h1>
 <h3>I am a Web Developer from Brasil💻</h3>
 
+<h2>My studies of the moment</h2>
+<ul>
+  <li>My path to become a <b>Front-end</b> Developer</li>
+  <ol type="1">
+    <li>✅ Learn HTML and CSS</li>
+    <li>✅ Learn JavaScript</li>
+    <li>🟨 Learn React</li>
+  </ol>
+  <li>My path to become a <b>Back-end</b> Developer</li>
+  <ol type="1">
+    <li>✅ Learn Java</li>
+    <li>🟨 Learn Spring</li>
+  </ol>
+</ul>
+
 <h2>Main Techs</h2>
 <div>
   <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
@@ -23,21 +38,6 @@
 <a href="https://www.instagram.com/lucasinmanuel/" alt="instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<h2>My studies of the moment</h2>
-<ul>
-  <li>My path to become a <b>Front-end</b> Developer</li>
-  <ol type="1">
-    <li>✅ Learn HTML and CSS</li>
-    <li>✅ Learn JavaScript</li>
-    <li>🟨 Learn React</li>
-  </ol>
-  <li>My path to become a <b>Back-end</b> Developer</li>
-  <ol type="1">
-    <li>✅ Learn Java</li>
-    <li>🟨 Learn Spring</li>
-  </ol>
-</ul>
 
 
 
