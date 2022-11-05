@@ -6,12 +6,12 @@
   <ol type="1">
     <li>✅ Learn HTML and CSS</li>
     <li>✅ Learn JavaScript</li>
-    <li>🟨 Learn React</li>
+    <li>✅ Learn React</li>
   </ol>
   <li>My path to become a <b>Back-end</b> Developer</li>
   <ol type="1">
-    <li>🟨 Learn Java</li>
-    <li>🟨 Learn Spring</li>
+    <li>✅ Learn Java</li>
+    <li>✅ Learn Spring</li>
   </ol>
 </ul>
 
