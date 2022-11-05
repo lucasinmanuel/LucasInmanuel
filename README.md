@@ -15,6 +15,16 @@
   <img title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+<h2>Contact</h2>
+<p><b></b></p>
+<a href="https://www.linkedin.com/in/lucas-emanuel-santana-dos-santos-7431b722a" alt="linkedin">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/lucasinmanuel/" alt="instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<h2>My studies of the moment</h2>
 <ul>
   <li>My path to become a <b>Front-end</b> Developer</li>
   <ol type="1">
@@ -24,18 +34,10 @@
   </ol>
   <li>My path to become a <b>Back-end</b> Developer</li>
   <ol type="1">
-    <li>🟨 Learn Java</li>
+    <li>✅ Learn Java</li>
     <li>🟨 Learn Spring</li>
   </ol>
 </ul>
-
-<h2>Contact</h2>
-<a href="https://www.linkedin.com/in/lucas-emanuel-santana-dos-santos-7431b722a" alt="linkedin">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/lucasinmanuel/" alt="instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 
 
