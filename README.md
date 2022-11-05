@@ -16,7 +16,7 @@
 </div>
 
 <h2>Contact</h2>
-<p><b></b></p>
+<p><b>E-mail: </b><a href="mailto:lucasemanuel2077@gmail.com">lucasemanuel2077@gmail.com</a></p>
 <a href="https://www.linkedin.com/in/lucas-emanuel-santana-dos-santos-7431b722a" alt="linkedin">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
