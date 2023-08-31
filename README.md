@@ -1,20 +1,7 @@
 <h1>Hello! My name is Lucas👋</h1>
 <h3>I am a Web Developer from Brasil💻</h3>
 
-<h2>My studies of the moment</h2>
-<ul>
-  <li>My path to become a <b>Front-end</b> Developer</li>
-  <ol type="1">
-    <li>✅ Learn HTML and CSS</li>
-    <li>✅ Learn JavaScript</li>
-    <li>🟨 Learn React</li>
-  </ol>
-  <li>My path to become a <b>Back-end</b> Developer</li>
-  <ol type="1">
-    <li>✅ Learn Java</li>
-    <li>🟨 Learn Spring</li>
-  </ol>
-</ul>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasinmanuel&layout=compact&theme=merko)
 
 <h2>Main Techs</h2>
 <div>
