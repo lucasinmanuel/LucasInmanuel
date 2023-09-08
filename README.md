@@ -1,11 +1,12 @@
 <h1>Hello! My name is Lucas👋</h1>
-<h3>I am a Web Developer from Brasil💻</h3>
+<h3>I am a Software Developer from Brasil💻</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasinmanuel&layout=compact&theme=merko)
 
 <h2>Main Techs</h2>
 <div>
   <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img title="React" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img title="Java" alt="Java" src="https://img.shields.io/badge/Java-da851b?style=for-the-badge&logo=java&logoColor=white" />
   <img title="Spring" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
